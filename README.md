@@ -342,7 +342,3 @@ Skills:
 Java • Spring Boot • REST APIs • Microservices • AWS • SQL • CI/CD
 
 ---
-
-## 📄 License
-
-This project is intended for educational, architectural demonstration, and portfolio purposes.
